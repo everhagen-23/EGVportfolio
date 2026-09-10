@@ -144,7 +144,8 @@ div.gallery img {
     vertical-align: bottom;
     background-color: white;
     padding: 2%;
-    width: 100%
+    width: 100%;
+    outline: 3px solid #ff517a;
 }
 
 .lilemma {
