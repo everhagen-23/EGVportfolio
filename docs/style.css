@@ -39,8 +39,12 @@ html {
     padding: 10%;
     text-align: center;
     vertical-align: middle;
+    text-shadow: #151516 2px 0 10px;
 }
 .herotext h1 {
+    font-family: "comma-sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
     font-size: 3em;
     padding-bottom: -7em;
 }
